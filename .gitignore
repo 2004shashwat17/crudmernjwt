@@ -1,3 +1,5 @@
+# Ignore .env in server folder
+server/.env
 # Environment variables
 .env
 .env.local
