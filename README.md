@@ -1,1 +1,1 @@
-A crud operation in mern(mongodb, react, node, express) stack + jwt authentication (json web token)
+A crud operation in mern(mongodb, react, node, express) stack + jwt authentication (json web token) in full stack
